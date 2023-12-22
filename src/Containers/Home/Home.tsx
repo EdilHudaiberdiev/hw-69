@@ -6,7 +6,6 @@ const Home = () => {
   return (
     <>
       <SearchTvShow/>
-      1
 
     </>
   );
